@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iburnthings
-- 👀 I’m interested in ... AR, VR, IoT, 5G and building our digital future
-- 🌱 I’m currently learning ... JavaScript, C++, Unreal Engine
-- 💞️ I’m looking to collaborate on ... nothing yet but I'll be soon
-- 📫 How to reach me ... null
+- 👀 I’m interested in ... programming, aviation, helping others.
+- 🌱 I’m currently learning ... rust-lang, C#, drone piloting, python.
+- 💞️ I’m looking to collaborate on ... nothing yet.
+- 📫 How to reach me ... @zepptril on Discord
 
 <!---
 iburnthings/iburnthings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
